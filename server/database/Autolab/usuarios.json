@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Julian Esteban Petrina",
+    "email": "julian.petrina@gmail.com",
+    "password": "dgdgdfgfdg",
+    "_id": "d9c58e1b-761c-47e5-876e-052f89ace638",
+    "createdAt": "2025-09-02T19:02:21.477Z",
+    "updatedAt": "2025-09-02T19:02:21.477Z"
+  },
+  {
+    "name": "Sebsatian",
+    "email": "sebastian@yahoo.com",
+    "password": "nuno1024",
+    "_id": "70f5c335-078c-46a4-aa60-f24908c5cf9f",
+    "createdAt": "2025-09-02T19:03:20.839Z",
+    "updatedAt": "2025-09-02T19:03:20.839Z"
+  },
+  {
+    "name": "Nina",
+    "email": "Nina@gmail.com",
+    "password": "nin1024",
+    "_id": "91092cbf-616f-4e19-9d77-8527f4dd1217",
+    "createdAt": "2025-09-02T19:08:07.901Z",
+    "updatedAt": "2025-09-02T19:08:07.901Z"
+  }
+]
